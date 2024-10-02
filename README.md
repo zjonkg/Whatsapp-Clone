@@ -8,7 +8,7 @@ Este proyecto es un clon visual de la interfaz de usuario de **WhatsApp Web**, c
 
 A continuación puedes ver una vista previa del diseño:
 
-![Vista previa del WhatsApp Clone](https://imgur.com/HEiZSNi)
+![Vista previa del WhatsApp Clone](https://imgur.com/HEiZSNi.png)
 
 > Asegúrate de agregar una imagen de captura de pantalla en el directorio `assets` o actualiza la ruta del archivo en esta sección.
 
